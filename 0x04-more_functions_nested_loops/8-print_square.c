@@ -17,6 +17,7 @@ while (x < size)
 {
 _putchar('#');
 x++;
+}
 _putchar('\n');
 y++;
 }
